@@ -202,4 +202,4 @@ Python
 
                     except sqlite3.Error as e:
                     conn.rollback()
-                    print(f"❌ Ошибка: {e}. Изменения отменены.")
+                    print(f"❌ Ошибка: {e}. Изменения отменены.")# Коммит Sun Jan 11 17:56:57 RTZ 2026
