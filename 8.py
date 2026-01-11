@@ -267,4 +267,4 @@ Python
                     print("\n=== Поиск студентов по курсу 'Программирование' ===")
                     programming_students = find_students_by_course("Программирование")
                     for student in programming_students:
-                    print(f"Студент: {student[0]}, Возраст: {student[1]}, Оценка: {student[2]}, Семестр: {student[3]}")
+                    print(f"Студент: {student[0]}, Возраст: {student[1]}, Оценка: {student[2]}, Семестр: {student[3]}")# Коммит Sun Jan 11 17:56:57 RTZ 2026
